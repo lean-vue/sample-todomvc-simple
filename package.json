@@ -5,6 +5,7 @@
     "lint": "eslint . --ext .vue,.js --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "todomvc-app-css": "^2.4.1",
     "vue": "^3.2.29"
   },
   "devDependencies": {
